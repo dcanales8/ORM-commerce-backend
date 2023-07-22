@@ -6,6 +6,8 @@ This application demonstrates the usefulness of a RESTful API. It uses Express.j
 
 [Walkthrough Video](https://youtu.be/qkrG17sEENE)
 
+![Screenshot1](./assets/1.png)
+
 ## Usage Instructions
 * Navigate to database directory
 * Run MySQL and source schema.sql
